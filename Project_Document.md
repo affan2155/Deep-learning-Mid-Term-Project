@@ -6,7 +6,7 @@
 
 ## Project Overview
 
-This project builds two deep learning models on two different datasets: a deep neural network (DNN) that predicts customer churn from tabular data, and a convolutional neural network (CNN) that classifies brain MRI images. Both models are implemented in Python with TensorFlow/Keras. The source code is in the notebook Deep_Learning_Midterm.ipynb (and the two standalone notebooks) in the GitHub repository: \[add repository link\].
+This project builds two deep learning models on two different datasets: a deep neural network (DNN) that predicts customer churn from tabular data, and a convolutional neural network (CNN) that classifies brain MRI images. Both models are implemented in Python with TensorFlow/Keras. The source code is in the notebook Deep_Learning_Midterm.ipynb (and the two standalone notebooks) in the GitHub repository: https://github.com/affan2155/Deep-learning-Mid-Term-Project.
 
 # Part 1: DNN – Telco Customer Churn Prediction
 
